@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 LABEL maintainer=v8z3n28kq@mozmail.com
-LABEL version=6.6
+LABEL version=7.2
 LABEL description="This is a custom Docker Image for the insecure OpenSSH version. Mainly used for generating insecure RSA private key pair with `ssh-rsa` signature."
 
 # Operating system dependencies
